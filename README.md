@@ -61,7 +61,7 @@ Bachelor of Applied Science in Medical Laboratory Technology
 **Awal Sehat** is a science-backed public health platform I founded to promote *mindful eating, preventive lifestyle*, and early awareness that reduce risk of metabolic diseases and improve life expectancy.  
 We combine digital storytelling, community engagement, and translational evidence to nudge healthier habits at scale.
 Key focus areas:
-- **Mindful eating**: practical guidance & behavior nudges to reduce overeating and improve food choices.  
+- **Mindful eating**: practical guidance & behavior nudges to reduce overeating of carbs and fats (foods that are deep fried, especially with palm oil) , improve food choices and balanced meals.  
 - **Food additives & ingredients**: evidence-based critiques and plain-language explainers about common additives, ultra-processed snack ingredients, and sugar in drinks.  
 - **Policy & advocacy**: targeted research summaries and policy asks prepared to inform regulators (BPOM) and public health stakeholders.
 
