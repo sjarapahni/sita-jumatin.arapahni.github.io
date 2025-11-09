@@ -3,4 +3,6 @@ Hi, I'm Sita 👋🏼 Welcome to my personal website !
 
 
 
-👩🏽‍🔬 I would like to call myself an early-career (MSc) professional in Research exploring opportunity to pursue PhD 
+👩🏽‍🔬 I am passionate about understanding infectious disease biology and translating discoveries into global health impact.
+
+Currently exploring PhD opportunities focused on host–parasite interactions, vector biology, and translational malaria research.
