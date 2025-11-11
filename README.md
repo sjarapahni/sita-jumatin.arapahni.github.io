@@ -1,4 +1,3 @@
-# sita-jumatin.arapahni.github.io
 ## 👩🏽‍🔬 Hi, I'm Sita 👋🏼 Welcome to my personal website !
 I am driven to understand disease biology through molecular and cellular research that can contribute to global health. 
 
